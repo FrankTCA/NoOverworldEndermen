@@ -1,0 +1,6 @@
+name: NoOverworldEndermen
+version: '${version}'
+main: org.infotoast.nooverworldendermen.NoOverworldEndermen
+api-version: '1.20'
+author: Frank
+description: No endermen in the overworld
